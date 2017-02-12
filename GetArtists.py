@@ -10,9 +10,10 @@ def read_web(alpha):
 
 if __name__ == "__main__":
 	#page = read_web()
-	artists_list = []
+	artists_list = [] #url format
+	artists_list_name = [] #eary-read format
 	begin = ord('a')
-	for i in range(1):
+	for i in range(26):
 		print 'Loading Page ' + chr(begin + i)
 		page = read_web(chr(begin + i))
 		soup = BeautifulSoup(page)
@@ -24,6 +25,7 @@ if __name__ == "__main__":
 				print len(hrefs[0].get('href'))
 				artists_list.extend(hrefs[0].get('href'))
 				artists_list.extend('\n')
+				artists_list_name.extend(hrefs[0])
 			
 
 	
@@ -31,4 +33,16 @@ if __name__ == "__main__":
 	for artist in artists_list:
 		f.write('%s' % artist)
 		f.flush()
+	f.close()
+
+	f = open('artists_name.txt','w')
+	for artist in artists_list_name:
+		try:
+			f.write('%s\n' % artist)
+			f.flush()
+		except UnicodeEncodeError:
+			f.write('unicode error!\n')
+			f.flush()
+			continue
+
 	f.close()

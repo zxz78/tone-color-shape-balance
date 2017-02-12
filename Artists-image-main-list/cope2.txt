@@ -1,0 +1,10 @@
+/en/cope2/piece-1984
+/en/cope2/piece-1984-1
+/en/cope2/train-1984
+/en/cope2/piece
+/en/cope2/piece-1
+/en/cope2/piece-2
+/en/cope2/the-last-redbird
+/en/cope2/throw-up
+/en/cope2/train
+/en/cope2/wall-piece

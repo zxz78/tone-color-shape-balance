@@ -1,0 +1,7 @@
+/en/kogan-gengei/calligraphy
+/en/kogan-gengei/daikoku
+/en/kogan-gengei/laughing-hotei
+/en/kogan-gengei/processing-of-monks
+/en/kogan-gengei/shotoku-taishi
+/en/kogan-gengei/zen-bull-enso
+/en/kogan-gengei/zen-bull

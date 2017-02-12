@@ -1,0 +1,10 @@
+/en/tim-scott/peach-wheels-1962
+/en/tim-scott/agrippa-1964
+/en/tim-scott/quadreme-1966
+/en/tim-scott/quinquereme-1966
+/en/tim-scott/trireme-1968
+/en/tim-scott/bird-in-arras-vii-1969
+/en/tim-scott/wine-1969
+/en/tim-scott/pool-v-1971
+/en/tim-scott/counterpoint-x-1973
+/en/tim-scott/counterpoint-x-1974

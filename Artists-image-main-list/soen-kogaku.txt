@@ -1,0 +1,8 @@
+/en/soen-kogaku/calligraphy-dai-setsu
+/en/soen-kogaku/daruma
+/en/soen-kogaku/daruma-1
+/en/soen-kogaku/daruma-2
+/en/soen-kogaku/enso
+/en/soen-kogaku/front-facing-daruma
+/en/soen-kogaku/giant-daruma
+/en/soen-kogaku/menpeki-wall-gazing-daruma
